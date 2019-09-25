@@ -1,0 +1,38 @@
+.navbar-brand {
+    font-family: Chalkduster, fantasy;
+}
+
+.btn {
+    border-color: #b51914;
+    color: #b51914;
+}
+
+.carousel-control-prev {
+    left: 100px;
+}
+
+.carousel-control-next {
+    right: 100px;
+}
+
+.whitespace {
+    height: 30px;
+    width: 80%;
+    border-bottom: 1px solid black;
+    float: center;
+    position: relative;
+}
+
+.cards{
+    display: inline;
+    text-align: center;
+}
+* {
+    box-sizing: border-box;
+}
+.card{
+    float: left;
+    padding: 20px;
+    margin: 20px;
+    width: 33.33333%;
+}
