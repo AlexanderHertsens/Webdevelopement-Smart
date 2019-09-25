@@ -5,6 +5,11 @@
 .btn {
     border-color: #b51914;
     color: #b51914;
+    background-color: #fff;
+}
+.btn:hover {
+    background-color: green;
+    border-color: #b51914;
 }
 
 .carousel-control-prev {
@@ -18,7 +23,6 @@
 .whitespace {
     height: 30px;
     width: 80%;
-    border-bottom: 1px solid black;
     float: center;
     position: relative;
 }
@@ -33,6 +37,6 @@
 .card{
     float: left;
     padding: 20px;
-    margin: 20px;
+    margin: 50px;
     width: 33.33333%;
 }
