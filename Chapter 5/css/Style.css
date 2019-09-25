@@ -40,3 +40,11 @@
     margin: 50px;
     width: 33.33333%;
 }
+
+.appoint {
+    display: inline-block;
+}
+
+.table {
+    display: inline;
+}
